@@ -1,0 +1,22 @@
+{
+  "detections": {
+    "replace_this_with_sample_token_1": [
+      {
+        "class_name": "car",
+        "score": 0.95,
+        "box_2d": [100.5, 200.0, 350.0, 400.5], 
+        "box_3d_center": [15.2, -2.1, 0.5],
+        "box_3d_size": [2.1, 4.5, 1.6],
+        "box_3d_yaw": 1.57
+      }
+    ],
+    "replace_this_with_sample_token_2": []
+  },
+  "trajectories": {
+    "replace_this_with_instance_token_1": [
+      [15.5, -2.1], [16.0, -2.1], [16.5, -2.2], [17.0, -2.2], 
+      [17.5, -2.3], [18.0, -2.3], [18.5, -2.4], [19.0, -2.4],
+      [19.5, -2.5], [20.0, -2.5], [20.5, -2.6], [21.0, -2.6]
+    ]
+  }
+}
